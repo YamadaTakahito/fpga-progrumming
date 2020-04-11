@@ -7,7 +7,6 @@ module blinkspeed (
 
 wire UP, DOWN;
 
-
 debounce d0 (.CLK(CLK), .RST(RST), .BTNIN(BTN[0]), .BTNOUT(UP));
 debounce d1 (.CLK(CLK), .RST(RST), .BTNIN(BTN[1]), .BTNOUT(DOWN));
 
