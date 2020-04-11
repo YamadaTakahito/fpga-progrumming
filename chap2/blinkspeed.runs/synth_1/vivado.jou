@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:39:14 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Apr 11 11:19:44 2020
+# Process ID: 21965
+# Current directory: /media/sf_linux-lite-share-folder/fpga-progrumming/chap2/blinkspeed.runs/synth_1
+# Command line: vivado -log blinkspeed.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source blinkspeed.tcl
+# Log file: /media/sf_linux-lite-share-folder/fpga-progrumming/chap2/blinkspeed.runs/synth_1/blinkspeed.vds
+# Journal file: /media/sf_linux-lite-share-folder/fpga-progrumming/chap2/blinkspeed.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source blinkspeed.tcl -notrace
