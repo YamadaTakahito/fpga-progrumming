@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:39:14 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Apr 11 10:16:46 2020
+# Process ID: 3112
+# Current directory: /media/sf_linux-lite-share-folder/fpga-progrumming/chap2/chap2.runs/impl_1
+# Command line: vivado -log blink.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source blink.tcl -notrace
+# Log file: /media/sf_linux-lite-share-folder/fpga-progrumming/chap2/chap2.runs/impl_1/blink.vdi
+# Journal file: /media/sf_linux-lite-share-folder/fpga-progrumming/chap2/chap2.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source blink.tcl -notrace
